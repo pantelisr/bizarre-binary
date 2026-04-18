@@ -1,4 +1,4 @@
-layout: ../../layputs/Layout.astro
+layout: ../../layouts/Layout.astro
 title: "Εκδρομή στον Βόλο"
 date: "Κυριακή 27/04/2026"
 
